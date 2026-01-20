@@ -9,3 +9,9 @@ pypdf
 PyYAML
 altair
 httpx
+streamlit
+pymupdf
+pillow
+pdfplumber
+easyocr
+pytesseract
